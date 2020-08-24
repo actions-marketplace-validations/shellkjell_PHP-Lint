@@ -1,4 +1,4 @@
-name: 'PHP Lint'
+name: 'PHP Lint Buddy.inc'
 description: 'Run Lint Against Pull Request'
 author: 'Michael Wright <php-lint@wserver.co.uk>'
 runs:
